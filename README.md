@@ -65,7 +65,9 @@ Custom presets are saved to `Curvy_presets.json` in the same folder as the scrip
 Enjoy your smooth, beautiful animations! ❤️
 
 > 💰 **Support this tool**
+>
 > This tool cost $8 to make. Donations appreciated to offset the cost! 🙂
+>
 > DOGE: DPx2Rxouq7Xc4AJnLB7Dg4hnyYcAYLkGTJ
 
 ## Features
