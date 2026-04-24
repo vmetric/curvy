@@ -2,6 +2,10 @@
 
 An interactive, visual easing curve editor for DaVinci Resolve's Fusion page. This tool allows you to visually drag and adjust cubic-bezier curves (just like CSS or After Effects) and apply them directly to your Fusion keyframes.
 
+Not pretty, and fully vibe coded, but it gets the job done:
+<img width="753" height="515" alt="image" src="https://github.com/user-attachments/assets/a3cda3c8-2334-4648-92e0-22d3f2116ddf" />
+
+
 ## Prerequisites
 
 Since this plugin provides a rich graphical interface using Python, you will need the following installed on your computer:
