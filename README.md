@@ -64,7 +64,10 @@ Custom presets are saved to `Curvy_presets.json` in the same folder as the scrip
 
 Enjoy your smooth, beautiful animations! ❤️
 
-## Features & Version History
+> 💰 **Support this tool**
+> This tool cost $8 to make. Donations appreciated to offset the cost! 🙂
+
+## Features
 
 * **Visual Presets Grid:** Clickable, dynamically-rendered thumbnails showing exactly what each preset curve looks like.
 * **Custom Presets:** Save your own curves as custom presets, edit them later, or delete ones you no longer need. Custom presets are marked with an orange diamond indicator and persist between sessions in a `Curvy_presets.json` file next to the script.
